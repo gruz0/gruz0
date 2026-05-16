@@ -1,10 +1,4 @@
-## Alex Kadyrov
-
-Independent software engineer based in Dubai. Writing code since 2000.
-
-**Dubai, UAE · Available for new projects · [alexkadyrov.com](https://alexkadyrov.com)**
-
----
+## Alex Kadyrov · Dubai, UAE · Available for new projects
 
 I've built 30+ products across my career — CRMs, marketplaces, automation systems, AI tools, a price drop monitor tracking 10,000+ products across 20+ stores, an investment fund manager. Some are still running. Some were sold or handed off. Some I shut down when they stopped making sense. Some I abandoned.
 
@@ -27,19 +21,19 @@ That's the honest picture across 20 years — and it's where my judgment about s
 
 ### What I do for clients
 
-**[AI Solutions](https://alexkadyrov.com/services/ai-solutions)** — Production tools, not demos. Built and killed a real AI product used on 500+ startup ideas. I know where the models break down in practice.
+**[AI Solutions](https://alexkadyrov.com/services/ai-solutions)** — Built and killed a real AI product used on 500+ startup ideas. I know where the models break down in practice.
 
-**[MVP Development](https://alexkadyrov.com/services/mvp-development)** — Concept to shipped product in 4–8 weeks. The first MVP I ever shipped had 47 features. Users cared about 3. I scope differently now.
+**[MVP Development](https://alexkadyrov.com/services/mvp-development)** — The first MVP I ever shipped had 47 features. Users cared about 3. I scope differently now.
 
-**[Fractional CTO](https://alexkadyrov.com/services/fractional-cto)** — Senior technical judgment without a full-time hire. I've worn every hat at once at early-stage startups and know what that costs.
+**[Fractional CTO](https://alexkadyrov.com/services/fractional-cto)** — I've worn every hat at once at early-stage startups and know what that costs.
 
-**[Internal Tools](https://alexkadyrov.com/services/internal-tools)** — Admin panels, CRM systems, booking tools, and operational dashboards for teams that have outgrown spreadsheets. Fixed price, 2–4 weeks.
+**[Internal Tools](https://alexkadyrov.com/services/internal-tools)** — Admin panels, CRM systems, booking tools, and operational dashboards for teams that have outgrown spreadsheets.
 
-**[Workflow Automation](https://alexkadyrov.com/services/automation)** — WhatsApp automation, lead follow-up, appointment reminders, CRM integrations. Make, n8n, Zapier. First automation live in 1–2 weeks.
+**[Workflow Automation](https://alexkadyrov.com/services/automation)** — WhatsApp automation, lead follow-up, appointment reminders, CRM integrations.
 
-**[Technical Due Diligence](https://alexkadyrov.com/services/technical-due-diligence)** — Independent code audit for investors, acquirers, and pre-fundraise founders. Written report, fixed price, 3–10 business days.
+**[Technical Due Diligence](https://alexkadyrov.com/services/technical-due-diligence)** — Independent code audit for investors, acquirers, and pre-fundraise founders.
 
-**[Founder Consultation](https://alexkadyrov.com/services/founder-consultation)** — One-time consultation for non-technical founders: MVP scope, tech stack, cost estimates, red flags. Written Technical Blueprint. $1,200 fixed, 48-hr delivery.
+**[Founder Consultation](https://alexkadyrov.com/services/founder-consultation)** — One-time consultation for non-technical founders: MVP scope, tech stack, cost estimates, red flags.
 
 ---
 
