@@ -41,6 +41,9 @@ That's the honest picture across 20 years — and it's where my judgment about s
 
 ### Recent articles
 
+<!-- BLOG-POST-LIST:START -->
+<!-- Generated from https://alexkadyrov.com/feed.xml by .github/workflows/update-articles.yml — edits between these markers are overwritten. -->
+
 - [When to Build an Internal Tool Instead of Living in a Spreadsheet](https://alexkadyrov.com/articles/when-to-build-an-internal-tool-instead-of-a-spreadsheet?utm_source=github&utm_medium=profile&utm_campaign=readme) — Jul 2026
 - [How to Become a Forward Deployed Engineer (I Did It Before the Title Existed)](https://alexkadyrov.com/articles/how-to-become-a-forward-deployed-engineer?utm_source=github&utm_medium=profile&utm_campaign=readme) — Jul 2026
 - [When to Stop Building and Start Showing It to People](https://alexkadyrov.com/articles/when-to-stop-building-and-start-showing-it-to-people?utm_source=github&utm_medium=profile&utm_campaign=readme) — Jul 2026
@@ -51,6 +54,8 @@ That's the honest picture across 20 years — and it's where my judgment about s
 - [500 Users and a Dead Product: Why Early Users Aren't a Traction Signal](https://alexkadyrov.com/articles/500-users-and-a-dead-product-why-early-users-arent-traction?utm_source=github&utm_medium=profile&utm_campaign=readme) — Jul 2026
 - [What Non-Technical Founders Actually Need From Their First Technical Hire](https://alexkadyrov.com/articles/what-non-technical-founders-need-from-their-first-technical-hire?utm_source=github&utm_medium=profile&utm_campaign=readme) — Jul 2026
 - [How to Hire a Workflow Automation Expert in Dubai (and When You Actually Need One)](https://alexkadyrov.com/articles/how-to-hire-a-workflow-automation-expert-in-dubai?utm_source=github&utm_medium=profile&utm_campaign=readme) — Jun 2026
+
+<!-- BLOG-POST-LIST:END -->
 
 → [All articles](https://alexkadyrov.com/articles?utm_source=github&utm_medium=profile&utm_campaign=readme)
 
